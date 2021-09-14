@@ -7,7 +7,6 @@
    A simple band name generator is built.
    
    https://github.com/sailendra01/Band-Name-Generator
-
-
+   
 - Day (2/100) of 100-days-of-python
    
