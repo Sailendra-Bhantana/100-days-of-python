@@ -9,4 +9,11 @@
    https://github.com/sailendra01/Band-Name-Generator
    
 - Day (2/100) of 100-days-of-python
+
+   Learned Data Types, Numbers, Operations, Type Conversions and f-Strings.
+   
+   A simple Tip Calculator is built.
+   
+   https://github.com/sailendra01/Tip-Calculator
+   
    
